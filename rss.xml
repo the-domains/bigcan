@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bigcan]]></title>
-        <description><![CDATA[bigcan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Life of Keng & Maggie]]></title>
+        <description><![CDATA[Life of Keng & Maggie]]></description>
+        <link>https://thegrid.ai/bigcan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 03:44:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 26 Jun 2016 05:48:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bigcan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed75b4b6-b3b8-414e-8e3f-f8c572575d84.jpg">]]></description>
+            <link>https://thegrid.ai/bigcan/anda-philippines/index.html</link>
+            <guid isPermaLink="false">d78baf3c-636e-49ec-89a6-158914964d22</guid>
+            <pubDate>Sun, 26 Jun 2016 05:48:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Inner Mongolia 2016</p>]]></description>
-            <link>undefinedinner-mongolia-2016/index.html</link>
+            <link>https://thegrid.ai/bigcan/inner-mongolia-2016/index.html</link>
             <guid isPermaLink="false">5d8d0828-42ba-45f9-9bfc-cc5dbfbf90c7</guid>
             <pubDate>Sun, 26 Jun 2016 03:44:12 GMT</pubDate>
         </item>
